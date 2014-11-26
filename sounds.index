@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-sailorpinup",
+    "files" : [
+        { "displayName" : "sailorpinup-ringtone"          , "fileName" : "sailorpinup_Ringtone.wav" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""   	, "fileName" : "" },
+        { "displayName" : ""    , "fileName" : "" },
+        { "displayName" : ""	, "fileName" : "" }
+    ]
+}
